@@ -1,5 +1,5 @@
 package-lock.json
-node_mdules/*
+node_modules/*
 
 # Logs
 logs
@@ -11,7 +11,6 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
 dist-ssr
 *.local
 
